@@ -45,7 +45,7 @@
             <argument/>
         </service>
 
-        <service id="sonata.media.adapter.filesystem.opencloud.objectstore" class="OpenCloud\ObjectSource\Service"
+        <service id="sonata.media.adapter.filesystem.opencloud.objectstore" class="OpenCloud\ObjectSource\Service">
             <argument/>
             <argument/>
         </service>
